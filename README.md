@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jadyin
+- I am at Computer Systems Student at Carleton University 
+- Some field I am interested in learning more about are ML, How Code interacts with different types of memeory and Basic circuits like ALUS and RAM
+-  I likely will have a few dumb projects lying around with work in Python, C++ and Java.
+- You can reach me by Email: Jakob.Delaney02@gmail.com or view my Linkedin: https://www.linkedin.com/in/jakob-delaney-3b13671a8/
