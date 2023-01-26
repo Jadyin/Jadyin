@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jadyin
 - I am at Computer Systems Student at Carleton University 
-- Some field I am interested in learning more about are ML, How Code interacts with different types of memeory and Basic circuits like ALUS and RAM
+- I am interested in computer architecture, cryptography and Artificial Intelligence. Mainly using all three of them combined like AI Accelerators to help in cryptography
 -  I likely will have a few dumb projects lying around with work in Python, C++ and Java.
 - You can reach me by Email: Jakob.Delaney02@gmail.com or view my Linkedin: https://www.linkedin.com/in/jakob-delaney-3b13671a8/
